@@ -1,6 +1,6 @@
 <?php
 
-namespace hzted123\cronjobs\controllers;
+namespace hzted123\cronjobs;
 
 use Yii;
 use yii\console\Controller;
